@@ -20,12 +20,12 @@ To view this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Aasthayuli/MicrosoftClone.git
+   git clone https://github.com/Aasthayuli/Microsoft-Clone.git
    ```
 2. **Navigate to the project directory**:
 
 ```bash
-cd MicrosoftClone
+cd Microsoft Clone
 ```
 
 3. Open the index.html file in your preferred browser 🌐
